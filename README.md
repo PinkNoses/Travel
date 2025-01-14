@@ -1,4 +1,4 @@
-<h1><i><a href = "https://pinknoses.github.io/Travel/"> Лэндинг</a> Travel</i></h1>
+<h1><i><a href = "https://pinknoses.github.io/Travel/">Верcтка </a> swiper-шапки Travel X</i></h1> 
 <ul>
  <li>Применение методологии БЭМ при написании классов;</li>
   <li>Использование препроцессора SASS, переменных;</li>
